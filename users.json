@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Tom Blake",
+        "likeGenre": ["Action", "Comedy", "Sci-Fi", "Drama"],
+        "likedMoviesGenre": [
+            {
+                "movieName": "Inception",
+                "movieGenre": ["Action", "Sci-Fi", "Adventure"]
+            },
+            {
+                "movieName": "The Dark Knight",
+                "movieGenre": ["Action", "Crime", "Drama"]
+            },
+            {
+                "movieName": "The Notebook",
+                "movieGenre": ["Romance", "Drama"]
+            }
+        ]
+    },
+    {
+        "name": "Jane Smith",
+        "likeGenre": ["Comedy", "Romance", "Drama", "Family"],
+        "likedMoviesGenre": [
+            {
+                "movieName": "Toy Story",
+                "movieGenre": ["Animation","Adventure", "Comedy"]
+            },
+            {
+                "movieName": "When Harry Met Sally",
+                "movieGenre": ["Comedy", "Drama", "Romance"]
+            },
+            {
+                "movieName": "The Lion King",
+                "movieGenre": ["Animation", "Adventure", "Drama"]
+            }
+        ]
+    },
+    {
+        "name": "Michael Johnson",
+        "likeGenre": ["Action", "Sci-Fi", "Thriller"],
+        "likedMoviesGenre": [
+            {
+                "movieName": "Inception",
+                "movieGenre": ["Action", "Sci-Fi", "Adventure"]
+            },
+            {
+                "movieName": "The Matrix",
+                "movieGenre": ["Action", "Sci-Fi"]
+            },
+            {
+                "movieName": "Blade Runner",
+                "movieGenre": ["Action", "Sci-Fi", "Thriller"]
+            },
+            {
+                "movieName": "The Dark Knight",
+                "movieGenre": ["Action", "Crime", "Drama"]
+            },
+            {
+                "movieName": "Interstellar",
+                "movieGenre": ["Adventure", "Drama", "Sci-Fi"]
+            }
+        ]
+    },
+    {
+        "name": "Mark Us",
+        "likeGenre": ["Drama", "History", "War"],
+        "likedMoviesGenre": [
+            {
+                "movieName": "The Godfather",
+                "movieGenre": ["Drama", "Crime"]
+            },
+            {
+                "movieName": "Schindler's List",
+                "movieGenre": ["Drama", "History"]
+            },
+            {
+                "movieName": "Saving Private Ryan",
+                "movieGenre": ["Action", "Drama", "War"]
+            }
+        ]
+    },
+    {
+        "name": "Jane Doe",
+        "likeGenre": ["Comedy", "Romance", "Mystery"],
+        "likedMoviesGenre": [
+            {
+                "movieName": "Thelma and Louise",
+                "movieGenre": ["Drama", "Crime", "Thriller"]
+            },
+            {
+                "movieName": "Gone Girl",
+                "movieGenre": ["Mystery", "Thriller"]
+            },
+            {
+                "movieName": "Vertigo",
+                "movieGenre": ["Mystery", "Thriller"]
+            }
+        ]
+    },
+    {
+        "name": "Mary Jones",
+        "likeGenre": ["Sci-Fi", "Fantasy", "Horror"],
+        "likedMoviesGenre": [
+            {
+                "movieName": "Star Wars",
+                "movieGenre": ["Action", "Adventure", "Sci-Fi"]
+            },
+            {
+                "movieName": "The Lord of the Rings",
+                "movieGenre": ["Action", "Adventure", "Fantasy"]
+            },
+            {
+                "movieName": "The Shining",
+                "movieGenre": ["Drama", "Horror"]
+            }
+        ]
+    }
+]
