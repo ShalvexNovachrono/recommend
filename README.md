@@ -1,7 +1,7 @@
 # recommend
 
 recommends movies to one user (which can be found **userInput.json**) from the other users (which can be found in **users.json**)
-#### need more data to make it accurate
+Want to make the output more accurate? add more data to the users.json
 
 
 
