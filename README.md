@@ -5,6 +5,7 @@ recommends movies to one user (which can be found **userInput.json**) from the o
 
 
 run the file ```python recommend.py```
+
 ![image](https://github.com/ShalvexNovachrono/recommend/assets/55297590/370434ec-b165-4db7-a84a-0e0ec1194a89)
 
 the output should look like this
